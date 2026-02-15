@@ -1,1 +1,0 @@
- Check between mobile and DESKTOP
